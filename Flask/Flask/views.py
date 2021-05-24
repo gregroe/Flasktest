@@ -45,3 +45,9 @@ def hellogreg():
 def hello():
     return "Hello!"
 
+@app.route("/marty")
+def hellomarty():
+    return "Hello Marty!"
+
+
+

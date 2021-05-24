@@ -44,8 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app.log" />
+    <None Include="Properties\PublishProfiles\web.pubxml" />
     <Content Include="web.config" />
-    <None Include="Properties\PublishProfiles\IISProfile.pubxml" />
     <Content Include="requirements.txt" />
     <Content Include="Flask\static\content\bootstrap.css" />
     <Content Include="Flask\static\content\bootstrap.min.css" />
